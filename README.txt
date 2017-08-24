@@ -1,5 +1,5 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
+林花谢了·Blog-记录一些东西，一点回忆。
+lhxl.github.io | @lhxl
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
